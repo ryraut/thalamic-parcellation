@@ -10,4 +10,4 @@ Buckner, Randy L., et al. "The organization of the human cerebellum estimated by
 
 Choi, Eun Young, BT Thomas Yeo, and Randy L. Buckner. "The organization of the human striatum estimated by intrinsic functional connectivity." Journal of neurophysiology (2012).
 
-Raut, Ryan V., et al. "Hierarchical dynamics as a macroscopic organizing principle of the human brain." Proceedings of the National Academy of Sciences (2021).
+Raut, Ryan V., et al. "Hierarchical dynamics as a macroscopic organizing principle of the human brain." Proceedings of the National Academy of Sciences (2020).
